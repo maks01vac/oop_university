@@ -1,33 +1,33 @@
 # 1
 
-# print("Maks")
-# print("Krasnodar")
-# print("Dimitrova street")
-# print("number 200")
+print("Maks")
+print("Krasnodar")
+print("Dimitrova street")
+print("number 200")
 
 
 # 2
 
-# name = input("Введите имя: ")
-# print("Hello ",name)
+name = input("Введите имя: ")
+print("Hello ",name)
 
 # 3
 
-# widthRoom = float(input("Введите ширину комнаты: "))
-# lengthRoom = float(input("Введите длину комнаты: "))
+widthRoom = float(input("Введите ширину комнаты: "))
+lengthRoom = float(input("Введите длину комнаты: "))
 
-# roomArea = widthRoom*lengthRoom
+roomArea = widthRoom*lengthRoom
 
-# print("Площадь комнаты:", roomArea)
+print("Площадь комнаты:", roomArea)
 
 #4
 
-# widthLand = float(input("Введите ширину садового участках в футах: "))
-# lengthLand = float(input("Введите длину садового участках в футах: "))
+widthLand = float(input("Введите ширину садового участках в футах: "))
+lengthLand = float(input("Введите длину садового участках в футах: "))
 
-# landArea = (widthLand*lengthLand)/43560
+landArea = (widthLand*lengthLand)/43560
 
-# print("Площадь садового участка в акрах:", landArea)
+print("Площадь садового участка в акрах:", landArea)
 
 #5 
 
